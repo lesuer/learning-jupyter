@@ -79,7 +79,7 @@
   * Node.js决策树包
   * 概要
 * [第六章：交互式小工具](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju.md)
-  * 安装小部件
+  * [安装小部件](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/an-zhuang-xiao-bu-jian.md)
   * 小部件基础知识
   * [交互小部件](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/jiao-hu-xiao-bu-jian.md)
     * 交互小部件滑块
