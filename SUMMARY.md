@@ -3,8 +3,8 @@
 * [开篇](README.md)
 * [前言](chapter1.md)
 * [第一章：介绍Jupyter](di-yi-zhang-ff1a-jie-shao-jupyter.md)
-  * 初探Jupyter
-  * 在Windows安装Jupyter
+  * [初探Jupyter](di-yi-zhang-ff1a-jie-shao-jupyter/chu-tan-jupyter.md)
+  * [在Windows安装Jupyter](di-yi-zhang-ff1a-jie-shao-jupyter/zaiwindows-an-zhuang-jupyter.md)
   * Mac安装Jupyter
   * Notebook的结构
   * Notebook流
