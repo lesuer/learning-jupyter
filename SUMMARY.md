@@ -29,21 +29,6 @@
   * Jupyter的Python图形
   * Jupyter中的Python随机数字
   * 概要
-* [第三章；Jupyter R脚本](di-san-zhang-ff1b-jupyter-r-jiao-ben.md)
-  * [将R脚本添加到您的脚本](di-san-zhang-ff1b-jupyter-r-jiao-ben/jiang-r-jiao-ben-tian-jia-dao-nin-de-jiao-ben.md)
-    * 在Mac上添加R脚本到Jupyter
-    * 在Windows上将R脚本添加到Jupyter
-    * 将R包添加到Jupyter
-    * 在Jupyter R限制
-    * 将R脚本添加到jupyter之后
-  * [在Jupyter的基本R](di-san-zhang-ff1b-jupyter-r-jiao-ben/zai-jupyter-de-ji-ben-r.md)
-  * R数据访问
-  * [R Jupyter中的数据可视化](di-san-zhang-ff1b-jupyter-r-jiao-ben/r-jupyterzhong-de-shu-ju-ke-shi-hua.md)
-    * 在Jupyter R 3D图形
-    * 在Jupyter R 3D散点图
-  * R 聚类分析
-  * R预测
-  * 摘要
 * [第四章：Jupyter Julia脚本](di-si-zhang-ff1a-jupyter-julia-jiao-ben.md)
   * [将Julia脚本添加到您的安装](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jiang-julia-jiao-ben-tian-jia-dao-nin-de-an-zhuang.md)
     * 在Mac上将Julia脚本添加到Jupyter
@@ -62,6 +47,21 @@
   * Julia正则表达式
   * Julia单元测试
   * 概要
+* [第三章；Jupyter R脚本](di-san-zhang-ff1b-jupyter-r-jiao-ben.md)
+  * [将R脚本添加到您的脚本](di-san-zhang-ff1b-jupyter-r-jiao-ben/jiang-r-jiao-ben-tian-jia-dao-nin-de-jiao-ben.md)
+    * 在Mac上添加R脚本到Jupyter
+    * 在Windows上将R脚本添加到Jupyter
+    * 将R包添加到Jupyter
+    * 在Jupyter R限制
+    * 将R脚本添加到jupyter之后
+  * [在Jupyter的基本R](di-san-zhang-ff1b-jupyter-r-jiao-ben/zai-jupyter-de-ji-ben-r.md)
+  * R数据访问
+  * [R Jupyter中的数据可视化](di-san-zhang-ff1b-jupyter-r-jiao-ben/r-jupyterzhong-de-shu-ju-ke-shi-hua.md)
+    * 在Jupyter R 3D图形
+    * 在Jupyter R 3D散点图
+  * R 聚类分析
+  * R预测
+  * 摘要
 * [第五章：Jupyter JavaScript脚本](di-wu-zhang-ff1ajupyter-javascript-jiao-ben.md)
   * [将JavaScript脚本添加到你的安装](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/jiang-javascript-jiao-ben-tian-jia-dao-ni-de-an-zhuang.md)
     * 在Windows上添加JavaScript脚本到Jupyter
