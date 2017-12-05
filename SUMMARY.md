@@ -59,10 +59,10 @@
     * [Julia Vega plotting](di-si-zhang-ff1a-jupyter-julia-jiao-ben/julia-vega-plotting.md)
       * [Julia PyPlot plotting ](di-si-zhang-ff1a-jupyter-julia-jiao-ben/julia-vega-plotting/julia-pyplot-plotting.md)
   * [Julia 并行处理](di-si-zhang-ff1a-jupyter-julia-jiao-ben/julia-bing-xing-chu-li.md)
-  * Julia控制流
-  * Julia正则表达式
-  * Julia单元测试
-  * 概要
+  * [Julia控制流](di-si-zhang-ff1a-jupyter-julia-jiao-ben/juliakong-zhi-liu.md)
+  * [Julia正则表达式](di-si-zhang-ff1a-jupyter-julia-jiao-ben/juliazheng-ze-biao-da-shi.md)
+  * [Julia单元测试](di-si-zhang-ff1a-jupyter-julia-jiao-ben/juliadan-yuan-ce-shi.md)
+  * [概要](di-si-zhang-ff1a-jupyter-julia-jiao-ben/gai-yao.md)
 * [第五章：Jupyter JavaScript脚本](di-wu-zhang-ff1ajupyter-javascript-jiao-ben.md)
   * [将JavaScript脚本添加到你的安装](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/jiang-javascript-jiao-ben-tian-jia-dao-ni-de-an-zhuang.md)
     * 在Windows上添加JavaScript脚本到Jupyter
