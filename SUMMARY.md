@@ -71,11 +71,11 @@
     * 添加JavaScript包到Jupyter
   * Jupyter基础的JavaScript
   * Jupyter中的JavaScript限制
-  * Node.js d3包
-  * Node.js统计分析包
-  * Node.js JSON处理
-  * Node.js 画布包
-  * Node.js积极包装
+  * [Node.js d3包](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/nodejs-d3bao.md)
+  * [Node.js统计分析包](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/nodejstong-ji-fen-xi-bao.md)
+  * [Node.js JSON处理](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/nodejs-jsonchu-li.md)
+  * [Node.js 画布包](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/nodejs-hua-bu-bao.md)
+  * [Node.js积极包装](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/nodejsji-ji-bao-zhuang.md)
   * [Node.js异步线程](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/nodejsyi-bu-xian-cheng.md)
   * [Node.js决策树包](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/nodejsjue-ce-shu-bao.md)
   * [概要](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/gai-yao.md)
