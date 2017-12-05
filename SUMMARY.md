@@ -50,14 +50,15 @@
     * [在Windows上添加Julia脚本到Jupyter](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jiang-julia-jiao-ben-tian-jia-dao-nin-de-an-zhuang/zaiwindows-shang-tian-jia-julia-jiao-ben-dao-jupyter.md)
     * [将Julia包添加到Jupyter](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jiang-julia-jiao-ben-tian-jia-dao-nin-de-an-zhuang/jiang-julia-bao-tian-jia-dao-jupyter.md)
   * [Jupyter的基础Julia](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jupyterde-ji-chu-julia.md)
-  * Jupyter中的Julia限制
-  * 标准的Julia功能
+  * [Jupyter中的Julia限制](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jupyterzhong-de-julia-xian-zhi.md)
+  * [标准的Julia功能](di-si-zhang-ff1a-jupyter-julia-jiao-ben/biao-zhun-de-julia-gong-neng.md)
   * [Jupyter中的Julia可视化](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jupyterzhong-de-julia-ke-shi-hua.md)
-    * Julia Gadfly散点图
-    * Julia Gadfly直方图
-  * [Julia Vega plotting](di-si-zhang-ff1a-jupyter-julia-jiao-ben/julia-vega-plotting.md)
-    * Julia PyPlot plotting 
-  * Julia 并行处理
+    * [Julia Gadfly散点图](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jupyterzhong-de-julia-ke-shi-hua/julia-gadflysan-dian-tu.md)
+    * [Julia Gadfly直方图](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jupyterzhong-de-julia-ke-shi-hua/julia-gadflyzhi-fang-tu.md)
+    * [Julia  Winston plotting](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jupyterzhong-de-julia-ke-shi-hua/julia-winston-plotting.md)
+    * [Julia Vega plotting](di-si-zhang-ff1a-jupyter-julia-jiao-ben/julia-vega-plotting.md)
+      * [Julia PyPlot plotting ](di-si-zhang-ff1a-jupyter-julia-jiao-ben/julia-vega-plotting/julia-pyplot-plotting.md)
+  * [Julia 并行处理](di-si-zhang-ff1a-jupyter-julia-jiao-ben/julia-bing-xing-chu-li.md)
   * Julia控制流
   * Julia正则表达式
   * Julia单元测试
