@@ -41,15 +41,15 @@
   * [R Jupyter中的数据可视化](di-san-zhang-ff1b-jupyter-r-jiao-ben/r-jupyterzhong-de-shu-ju-ke-shi-hua.md)
     * [在Jupyter R 3D图形](di-san-zhang-ff1b-jupyter-r-jiao-ben/r-jupyterzhong-de-shu-ju-ke-shi-hua/zai-jupyter-r-3d-tu-xing.md)
     * [在Jupyter R 3D散点图](di-san-zhang-ff1b-jupyter-r-jiao-ben/r-jupyterzhong-de-shu-ju-ke-shi-hua/zai-jupyter-r-3d-san-dian-tu.md)
-  * R 聚类分析
-  * R预测
-  * 摘要
+  * [R 聚类分析](di-san-zhang-ff1b-jupyter-r-jiao-ben/r-ju-lei-fen-xi.md)
+  * [R预测](di-san-zhang-ff1b-jupyter-r-jiao-ben/ryu-ce.md)
+  * [摘要](di-san-zhang-ff1b-jupyter-r-jiao-ben/zhai-yao.md)
 * [第四章：Jupyter Julia脚本](di-si-zhang-ff1a-jupyter-julia-jiao-ben.md)
   * [将Julia脚本添加到您的安装](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jiang-julia-jiao-ben-tian-jia-dao-nin-de-an-zhuang.md)
-    * 在Mac上将Julia脚本添加到Jupyter
-    * 在Windows上添加Julia脚本到Jupyter
-    * 将Julia包添加到Jupyter
-  * Jupyter的基础Julia
+    * [在Mac上将Julia脚本添加到Jupyter](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jiang-julia-jiao-ben-tian-jia-dao-nin-de-an-zhuang/zai-mac-shang-jiang-julia-jiao-ben-tian-jia-dao-jupyter.md)
+    * [在Windows上添加Julia脚本到Jupyter](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jiang-julia-jiao-ben-tian-jia-dao-nin-de-an-zhuang/zaiwindows-shang-tian-jia-julia-jiao-ben-dao-jupyter.md)
+    * [将Julia包添加到Jupyter](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jiang-julia-jiao-ben-tian-jia-dao-nin-de-an-zhuang/jiang-julia-bao-tian-jia-dao-jupyter.md)
+  * [Jupyter的基础Julia](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jupyterde-ji-chu-julia.md)
   * Jupyter中的Julia限制
   * 标准的Julia功能
   * [Jupyter中的Julia可视化](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jupyterzhong-de-julia-ke-shi-hua.md)
