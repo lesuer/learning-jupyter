@@ -76,9 +76,9 @@
   * Node.js JSON处理
   * Node.js 画布包
   * Node.js积极包装
-  * Node.js异步线程
-  * Node.js决策树包
-  * 概要
+  * [Node.js异步线程](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/nodejsyi-bu-xian-cheng.md)
+  * [Node.js决策树包](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/nodejsjue-ce-shu-bao.md)
+  * [概要](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/gai-yao.md)
 * [第六章：交互式小工具](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju.md)
   * [安装小部件](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/an-zhuang-xiao-bu-jian.md)
   * 小部件基础知识
