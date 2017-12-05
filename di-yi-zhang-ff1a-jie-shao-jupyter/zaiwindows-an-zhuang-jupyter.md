@@ -93,28 +93,32 @@ C:\Users\Dan
 ```
 一旦Jupyter运行，你会注意到屏幕底部的Jupyter（两个倒立的新月）的运行图标：
  
+![](/assets/99.jpg)
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-[18]
-
- 
-Jupyter简介
 
 请注意，日志的最后一行是您必须用来停止服务器的指令（在运行服务器的命令行窗口中按Ctrl + C）。
 
 如果您在该窗口中按Ctrl + C，Jupyter服务器将优雅地关闭：
 
+
+```
+[W 17:26:36.688 NotebookApp] 404 GET /favicon.ico (::1) 62.00ms referer=None
+
+[W 17:26:36.750 NotebookApp] 404 GET /favicon.ico (::1) 0.00ms referer=None
+
+[I 17:28:24.891 NotebookApp] Interrupted...
+
+[I 17:28:24.891 NotebookApp] Shutting down kernels
+
+
+
+```
+您会注意到Anaconda软件包已经安装在您的应用程序菜单上供进一步使用：
+
+
+![](/assets/88.jpg)
 

@@ -5,25 +5,25 @@
 * [第一章：介绍Jupyter](di-yi-zhang-ff1a-jie-shao-jupyter.md)
   * [初探Jupyter](di-yi-zhang-ff1a-jie-shao-jupyter/chu-tan-jupyter.md)
   * [在Windows安装Jupyter](di-yi-zhang-ff1a-jie-shao-jupyter/zaiwindows-an-zhuang-jupyter.md)
-  * Mac安装Jupyter
-  * Notebook的结构
-  * Notebook流
+  * [Mac安装Jupyter](di-yi-zhang-ff1a-jie-shao-jupyter/macan-zhuang-jupyter.md)
+  * [Notebook的结构](di-yi-zhang-ff1a-jie-shao-jupyter/notebookde-jie-gou.md)
+  * [Notebook流](di-yi-zhang-ff1a-jie-shao-jupyter/notebookliu.md)
   * [基础的notebook操作](di-yi-zhang-ff1a-jie-shao-jupyter/ji-chu-de-notebook-cao-zuo.md)
-    * 文件操作
-    * 重复
-    * 重命名
-    * 删除
-    * 加载
-    * new文本文件
-    * new文件夹
-    * newPython2
+    * [文件操作](di-yi-zhang-ff1a-jie-shao-jupyter/ji-chu-de-notebook-cao-zuo/wen-jian-cao-zuo.md)
+    * [重复](di-yi-zhang-ff1a-jie-shao-jupyter/ji-chu-de-notebook-cao-zuo/zhong-fu.md)
+    * [重命名](di-yi-zhang-ff1a-jie-shao-jupyter/ji-chu-de-notebook-cao-zuo/zhong-ming-ming.md)
+    * [删除](di-yi-zhang-ff1a-jie-shao-jupyter/ji-chu-de-notebook-cao-zuo/shan-chu.md)
+    * [加载](di-yi-zhang-ff1a-jie-shao-jupyter/ji-chu-de-notebook-cao-zuo/jia-zai.md)
+    * [new文本文件](di-yi-zhang-ff1a-jie-shao-jupyter/ji-chu-de-notebook-cao-zuo/newwen-ben-wen-jian.md)
+    * [new文件夹](di-yi-zhang-ff1a-jie-shao-jupyter/ji-chu-de-notebook-cao-zuo/newwen-jian-jia.md)
+    * [newPython2](di-yi-zhang-ff1a-jie-shao-jupyter/ji-chu-de-notebook-cao-zuo/newpython2.md)
   * [Jupyter的安全](di-yi-zhang-ff1a-jie-shao-jupyter/jupyterde-an-quan.md)
-    * 安全消化
-    * 信任选项
-  * Jupyter配置选项
-  * 摘要
+    * [安全消化](di-yi-zhang-ff1a-jie-shao-jupyter/jupyterde-an-quan/an-quan-xiao-hua.md)
+    * [信任选项](di-yi-zhang-ff1a-jie-shao-jupyter/jupyterde-an-quan/xin-ren-xuan-xiang.md)
+  * [Jupyter配置选项](di-yi-zhang-ff1a-jie-shao-jupyter/jupyterpei-zhi-xuan-xiang.md)
+  * [摘要](di-yi-zhang-ff1a-jie-shao-jupyter/zhai-yao.md)
 * [第二章：jupyter Python脚本](di-er-zhang-ff1a-jupyter-python-jiao-ben.md)
-  * jupyter的基础Python
+  * [jupyter的基础Python](di-er-zhang-ff1a-jupyter-python-jiao-ben/jupyterde-ji-chu-python.md)
   * Jupyter中的Python数据访问
   * 在Jupyter的Python pandas
   * Jupyter的Python图形
