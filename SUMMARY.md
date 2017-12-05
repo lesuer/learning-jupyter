@@ -26,8 +26,8 @@
   * [jupyter的基础Python](di-er-zhang-ff1a-jupyter-python-jiao-ben/jupyterde-ji-chu-python.md)
   * [Jupyter中的Python数据访问](di-er-zhang-ff1a-jupyter-python-jiao-ben/jupyterzhong-de-python-shu-ju-fang-wen.md)
   * [在Jupyter的Python pandas](di-er-zhang-ff1a-jupyter-python-jiao-ben/zai-jupyter-de-python-pandas.md)
-  * Jupyter的Python图形
-  * Jupyter中的Python随机数字
+  * [Jupyter的Python图形](di-er-zhang-ff1a-jupyter-python-jiao-ben/jupyterde-python-tu-xing.md)
+  * [Jupyter中的Python随机数字](di-er-zhang-ff1a-jupyter-python-jiao-ben/jupyterzhong-de-python-sui-ji-shu-zi.md)
   * 概要
 * [第四章：Jupyter Julia脚本](di-si-zhang-ff1a-jupyter-julia-jiao-ben.md)
   * [将Julia脚本添加到您的安装](di-si-zhang-ff1a-jupyter-julia-jiao-ben/jiang-julia-jiao-ben-tian-jia-dao-nin-de-an-zhuang.md)
