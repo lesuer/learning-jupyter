@@ -1,4 +1,4 @@
-# Summary
+# Learning Jupyter
 
 * [开篇](README.md)
 * [前言](chapter1.md)
@@ -65,12 +65,12 @@
   * [概要](di-si-zhang-ff1a-jupyter-julia-jiao-ben/gai-yao.md)
 * [第五章：Jupyter JavaScript脚本](di-wu-zhang-ff1ajupyter-javascript-jiao-ben.md)
   * [将JavaScript脚本添加到你的安装](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/jiang-javascript-jiao-ben-tian-jia-dao-ni-de-an-zhuang.md)
-    * 在Windows上添加JavaScript脚本到Jupyter
-    * 在Mac上添加JavaScript脚本到Jupyter
+    * [在Windows上添加JavaScript脚本到Jupyter](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/jiang-javascript-jiao-ben-tian-jia-dao-ni-de-an-zhuang/zaiwindows-shang-tian-jia-javascript-jiao-ben-dao-jupyter.md)
+    * [在Mac上添加JavaScript脚本到Jupyter](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/jiang-javascript-jiao-ben-tian-jia-dao-ni-de-an-zhuang/zai-mac-shang-tian-jia-javascript-jiao-ben-dao-jupyter.md)
   * [用JavaScript在Jupyter Notebook上写Hello world](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/yong-javascript-zai-jupyter-notebook-shang-xie-hello-world.md)
-    * 添加JavaScript包到Jupyter
-  * Jupyter基础的JavaScript
-  * Jupyter中的JavaScript限制
+    * [添加JavaScript包到Jupyter](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/yong-javascript-zai-jupyter-notebook-shang-xie-hello-world/tian-jia-javascriptbao-dao-jupyter.md)
+  * [Jupyter基础的JavaScript](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/jupyterji-chu-de-javascript.md)
+  * [Jupyter中的JavaScript限制](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/jupyterzhong-de-javascript-xian-zhi.md)
   * [Node.js d3包](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/nodejs-d3bao.md)
   * [Node.js统计分析包](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/nodejstong-ji-fen-xi-bao.md)
   * [Node.js JSON处理](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/nodejs-jsonchu-li.md)
@@ -113,4 +113,45 @@
     * reStructuredText格式
     * PDF格式
   * 概要
+* [第八章：多用户Jupyter笔记本](di-ba-zhang-ff1a-duo-yong-hu-jupyter-bi-ji-ben.md)
+  * 示例交互Notebook
+  * [JupyterHub](di-ba-zhang-ff1a-duo-yong-hu-jupyter-bi-ji-ben/jupyterhub.md)
+    * 安装
+    * 操作
+    * 继续进行操作
+    * JupyterHub概要
+  * [Docker](di-ba-zhang-ff1a-duo-yong-hu-jupyter-bi-ji-ben/docker.md)
+    * 安装
+    * 启动Docker
+    * 为docker构建jupyter镜像
+    * Docker概要
+  * 概要
+* [第九章：Jupyter Scala](di-jiuzhang-ff1a-jupyter-scala.md)
+  * 安装Scala内核
+  * 在Jupyter的Scala数据访问
+  * Scala array操作
+  * 在Jupyter Scala随机数字
+  * Scala关闭
+  * Scala更高阶功能
+  * Scala模式匹配
+  * Scala案例类
+  * Scala不变性
+  * Scala集合
+  * 命名参数
+  * Scala特质
+  * 概要
+* [第十章：Jupyter和大数据](di-shi-zhang-ff1a-jupyter-he-da-shu-ju.md)
+  * [Apache Spark](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/apache-spark.md)
+    * Mac安装
+    * Windows安装
+  * [我们的第一个Spark脚本](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/wo-men-de-di-yi-ge-spark-jiao-ben.md)
+  * Spark字数
+  * 分类的字数
+  * 估计Pi
+  * 日志文件检查
+  * Spark prime
+  * [Spark文本文件分析](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/sparkwen-ben-wen-jian-fen-xi.md)
+  * [Spark估计历史数据](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/sparkgu-ji-li-shi-shu-ju.md)
+  * [概要](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/gai-yao.md)
+* [索引](suo-yin.md)
 

@@ -1,0 +1,3 @@
+### 将JavaScript脚本添加到您的安装
+
+在本节中，我们将在Mac和Windows上安装JavaScript脚本。 在每个环境的Jupyter安装中都有单独的步骤来获取JavaScript脚本。 Mac的安装非常干净。 Windows安装似乎仍然在不断变化，我期望下面的说明随着时间的推移而改变。
