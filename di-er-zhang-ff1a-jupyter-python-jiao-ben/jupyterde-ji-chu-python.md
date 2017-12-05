@@ -116,6 +116,132 @@ print(name + ' is ' + str(age) + ' years old.')
 
 ![](/assets/38.jpg)
  
+请注意，Jupyter对Python进行了颜色编码（就像一个像样的编辑器一样），每个代码块的左边都有空括号。
+
+如果我们执行Cell | 运行所有单元格，结果显示为内联：
+
+
+
+![](/assets/39.jpg)
+
+Jupyter Python脚本
+
+我们现在用大小号填充大括号，单元格的输出被附加到每个单元格的底部。 需要注意的是单元格2能够引用在单元格1中声明的变量。
+
+如果我们要等自动保存启动或者点击保存图标（软盘最左侧的图标），我们将使用我们的结果更新磁盘上的IPYNB文件：
+
+
+```
+{
+
+"cells": [
+
+{
+
+"cell_type": "code",
+
+"execution_count": 1,
+
+"metadata": {
+
+"collapsed": true
+
+}, "outputs": [],
+
+"source": [
+
+"name = "Dan"\n",
+
+"age = 37"
+
+]
+
+},
+
+{
+
+"cell_type": "code",
+
+"execution_count": 2,
+
+"metadata": { "collapsed": false
+
+},
+
+"outputs": [
+
+{
+
+"name": "stdout",
+
+"output_type": "stream", "text": [
+
+"Dan is 37 years old.\n"
+
+]
+
+}
+
+], "source": [
+
+"print(name + ' is ' + str(age) + ' years old.')"
+
+]
+
+}
+
+],
+
+... metadata as above
+
+}
+ 
+
+
+
+
+
+
+[ 41 ]
+
+
+```
+Jupyter Python脚本
+
+有趣的是，Jupyter跟踪保存的文件版本和保存的检查点中最后生成的输出。 您也可以使用Cell |清除输出 所有输出| 清除命令。
+
+如果您然后重新运行您的单元格（使用单元格|全部运行），输出将被重新生成（并通过自动保存保存）。 如果你这样做，单元格编号就会增加 - Jupyter正在跟踪每个单元格的最新版本。
+
+同样，如果您要关闭浏览器选项卡，刷新主页选项卡中的显示，找到我们创建的新项目（学习Jupyter Chapter 2.pynb），然后单击它，将显示新选项卡（如前所创建的） 显示上次运行时产生的输出。
+
+如果打开服务器命令行窗口（Jupyter服务正在运行），您将看到我们在会话期间所做的操作的列表，如以下屏幕截图所示：
+
+
+![](/assets/45.jpg)
+
+
+日志条目处于较高级别。 如果遇到一些困难，可能有办法提高日志记录级别。
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[42]
+
+ 
+Jupyter Python脚本
+
 
 
 
