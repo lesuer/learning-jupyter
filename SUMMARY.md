@@ -25,7 +25,7 @@
 * [第二章：jupyter Python脚本](di-er-zhang-ff1a-jupyter-python-jiao-ben.md)
   * [jupyter的基础Python](di-er-zhang-ff1a-jupyter-python-jiao-ben/jupyterde-ji-chu-python.md)
   * [Jupyter中的Python数据访问](di-er-zhang-ff1a-jupyter-python-jiao-ben/jupyterzhong-de-python-shu-ju-fang-wen.md)
-  * 在Jupyter的Python pandas
+  * [在Jupyter的Python pandas](di-er-zhang-ff1a-jupyter-python-jiao-ben/zai-jupyter-de-python-pandas.md)
   * Jupyter的Python图形
   * Jupyter中的Python随机数字
   * 概要

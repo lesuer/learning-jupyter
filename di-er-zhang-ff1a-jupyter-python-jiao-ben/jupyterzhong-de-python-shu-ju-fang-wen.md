@@ -31,5 +31,72 @@ x_count = len(X.flat) x_min = X[:, 0].min() - .5 x_max = X[:, 0].max() + .5 x_me
 
 ![](/assets/46.jpg)
 
+现在，运行单元格（使用单元格|全部运行），我们得到以下显示。 唯一的区别是显示值的最后一个Out行：
+
+![](/assets/47.jpg)
+
+加载库（第一次运行脚本）花费的时间似乎比读取数据和计算统计量要花费更长的时间。
+
+如果我们查看这个笔记本的IPYNB文件，我们看到没有任何数据被缓存在IPYNB文件中。 我们只需要对库，代码和上次计算脚本时的输出进行代码引用：
+
+
+```
+{
+
+"cell_type": "code", "execution_count": 4,
+
+"metadata": { "collapsed": false
+
+}, "outputs": [
+
+{
+
+"data": {
+ 
+
+[ 45 ]
+
+ 
+Jupyter Python Scripting
+
+"text/plain": [
+
+"(300, 3.7999999999999998, 8.4000000000000004, 5.8433333333333337)"
+
+]
+
+},
+
+"execution_count": 4,
+
+"metadata": {},
+
+"output_type": "execute_result"
+
+}
+
+],
+
+"source": [
+
+"# calculate some basic statistics\n",
+
+"x_count = len(X.flat)\n", "x_min = X[:, 0].min() - .5\n",
+
+"x_max = X[:, 0].max() + .5\n",
+
+"x_mean = X[:, 0].mean()\n",
+
+"\n",
+
+"# display our results\n", "x_count, x_min, x_max, x_mean"
+
+]
+
+}
+
+
+
+```
 
 
