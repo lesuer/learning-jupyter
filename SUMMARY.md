@@ -81,30 +81,30 @@
   * [概要](di-wu-zhang-ff1ajupyter-javascript-jiao-ben/gai-yao.md)
 * [第六章：交互式小工具](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju.md)
   * [安装小部件](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/an-zhuang-xiao-bu-jian.md)
-  * 小部件基础知识
+  * [小部件基础知识](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/xiao-bu-jian-ji-chu-zhi-shi.md)
   * [交互小部件](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/jiao-hu-xiao-bu-jian.md)
-    * 交互小部件滑块
-    * 交互小部件复选框
-    * 交互小部件文本框
-    * 交互下拉菜单
-  * 交互小部件
+    * [交互小部件滑块](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/jiao-hu-xiao-bu-jian/jiao-hu-xiao-bu-jian-hua-kuai.md)
+    * [交互小部件复选框](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/jiao-hu-xiao-bu-jian/jiao-hu-xiao-bu-jian-fu-xuan-kuang.md)
+    * [交互小部件文本框](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/jiao-hu-xiao-bu-jian/jiao-hu-xiao-bu-jian-wen-ben-kuang.md)
+    * [交互下拉菜单](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/jiao-hu-xiao-bu-jian/jiao-hu-xia-la-cai-dan.md)
+  * [交互小部件23](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/jiao-hu-xiao-bu-jian.md)
   * [小工具](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/xiao-gong-ju.md)
-    * 进度条小部件
-    * 列表框小部件
-    * 文本小部件
-    * 按钮小部件
-    * 微件属性
-    * 调整属性
-    * 小部件事件
-    * 小部件容器
-  * 概要
+    * [进度条小部件](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/xiao-gong-ju/jin-du-tiao-xiao-bu-jian.md)
+    * [列表框小部件](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/xiao-gong-ju/lie-biao-kuang-xiao-bu-jian.md)
+    * [文本小部件](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/xiao-gong-ju/wen-ben-xiao-bu-jian.md)
+    * [按钮小部件](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/xiao-gong-ju/an-niu-xiao-bu-jian.md)
+    * [微件属性](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/xiao-gong-ju/wei-jian-shu-xing.md)
+    * [调整属性](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/xiao-gong-ju/diao-zheng-shu-xing.md)
+    * [小部件事件](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/xiao-gong-ju/xiao-bu-jian-shi-jian.md)
+    * [小部件容器](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/xiao-gong-ju/xiao-bu-jian-rong-qi.md)
+    * [概要](di-liu-zhang-ff1a-jiao-hu-shi-xiao-gong-ju/xiao-gong-ju/gai-yao.md)
 * [第七章：共享和分享Jupyter Notebook](di-qi-zhang-ff1a-gong-xiang-he-fen-xiang-jupyter-notebook.md)
   * [共享Notebook](di-qi-zhang-ff1a-gong-xiang-he-fen-xiang-jupyter-notebook/gong-xiang-notebook.md)
-    * [在notebook服务器上共享Notebook](di-qi-zhang-ff1a-gong-xiang-he-fen-xiang-jupyter-notebook/gong-xiang-notebook/zai-bi-ji-ben-fu-wu-qi-shang-gong-xiang-notebook.md)
-      * 在笔记本服务器上加密共享笔记本
     * [在Web服务器上共享Notebook](di-qi-zhang-ff1a-gong-xiang-he-fen-xiang-jupyter-notebook/gong-xiang-notebook/zai-web-fu-wu-qi-shang-gong-xiang-notebook.md)
     * [通过Docker共享notebook](di-qi-zhang-ff1a-gong-xiang-he-fen-xiang-jupyter-notebook/gong-xiang-notebook/tong-guo-docker-gong-xiang-notebook.md)
     * [在公共服务器上共享Notebook](di-qi-zhang-ff1a-gong-xiang-he-fen-xiang-jupyter-notebook/gong-xiang-notebook/zai-gong-gong-fu-wu-qi-shang-gong-xiang-bi-ji-ben.md)
+  * [在笔记本服务器上加密共享笔记本](di-qi-zhang-ff1a-gong-xiang-he-fen-xiang-jupyter-notebook/gong-xiang-notebook/zai-bi-ji-ben-fu-wu-qi-shang-gong-xiang-notebook/zai-bi-ji-ben-fu-wu-qi-shang-jia-mi-gong-xiang-bi-ji-ben.md)
+  * [在notebook服务器上共享Notebook](di-qi-zhang-ff1a-gong-xiang-he-fen-xiang-jupyter-notebook/gong-xiang-notebook/zai-bi-ji-ben-fu-wu-qi-shang-gong-xiang-notebook.md)
   * [转换notebook](di-qi-zhang-ff1a-gong-xiang-he-fen-xiang-jupyter-notebook/zhuan-huan-notebook.md)
     * [notebook格式](di-qi-zhang-ff1a-gong-xiang-he-fen-xiang-jupyter-notebook/zhuan-huan-notebook/notebookge-shi.md)
     * [JavaScript格式](di-qi-zhang-ff1a-gong-xiang-he-fen-xiang-jupyter-notebook/zhuan-huan-notebook/javascriptge-shi.md)
