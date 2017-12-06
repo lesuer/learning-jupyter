@@ -4,43 +4,43 @@
 
 这里给出Mac OS / X的步骤（摘自https://developer.ibm.com/hadoop/ 2016/05/04 / install-jupyter-notebook-spark）：
 
-1. Install GIT using this:
+1. 使用这个安装GIT：
 
 yum install git
 
-2. Copy the Scala package locally:
+2. 在本地复制Scala包：
 
 git clone https://github.com/alexarchambault/jupyter-scala.git
 
-3. Install the sbt build tool by running this:
+3. 运行以下命令安装sbt构建工具：
  
 
 sudo yum install sbt
  
-Jupyter Scala
+
  
 
-4. Move to the Scala package directory:
+4.移动到Scala包目录：
 
 cd jupyter-scala
 
-5. Build the package:
+5. 构建包：
 
 sbt cli/packArchive
 
-6. To launch the Scala shell, use this command:
+6.要启动Scala shell，请使用以下命令：
 
 ./jupyter-scala
 
-7.	Check the kernels installed by running this command: (you should see Scala in the list now):
+7.通过运行这个命令检查安装的内核：（你现在应该在列表中看到Scala）：
 
 jupyter kernelspec list
 
-8. Launch the Jupyter Notebook:
+8. 启动Jupyter笔记本电脑：
 
 jupyter notebook
 
-9. You can now choose to use a Scala 2.11 shell.
+9. 你现在可以选择使用Scala 2.11 shell。
 
 At this point, if you start Jupyter, you will see the choice for Scala listed:
 
