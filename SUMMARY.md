@@ -127,8 +127,8 @@
     * Docker概要
   * 概要
 * [第九章：Jupyter Scala](di-jiuzhang-ff1a-jupyter-scala.md)
-  * 安装Scala内核
-  * 在Jupyter的Scala数据访问
+  * [安装Scala内核](di-jiuzhang-ff1a-jupyter-scala/an-zhuang-scala-nei-he.md)
+  * [在Jupyter的Scala数据访问](di-jiuzhang-ff1a-jupyter-scala/zai-jupyter-de-scala-shu-ju-fang-wen.md)
   * [Scala array操作](di-jiuzhang-ff1a-jupyter-scala/scala-arraycao-zuo.md)
   * [在Jupyter Scala随机数字](di-jiuzhang-ff1a-jupyter-scala/zai-jupyter-scala-sui-ji-shu-zi.md)
   * [Scala关闭](di-jiuzhang-ff1a-jupyter-scala/scalaguan-bi.md)
