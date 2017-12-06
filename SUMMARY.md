@@ -118,10 +118,10 @@
   * [JupyterHub](di-ba-zhang-ff1a-duo-yong-hu-jupyter-bi-ji-ben/jupyterhub.md)
     * 安装
     * 操作
-    * 继续进行操作
-    * JupyterHub概要
+    * [继续进行操作](di-ba-zhang-ff1a-duo-yong-hu-jupyter-bi-ji-ben/jupyterhub/ji-xu-jin-xing-cao-zuo.md)
+    * [JupyterHub概要](di-ba-zhang-ff1a-duo-yong-hu-jupyter-bi-ji-ben/jupyterhub/jupyterhubgai-yao.md)
   * [Docker](di-ba-zhang-ff1a-duo-yong-hu-jupyter-bi-ji-ben/docker.md)
-    * 安装
+    * [安装](di-ba-zhang-ff1a-duo-yong-hu-jupyter-bi-ji-ben/docker/an-zhuang.md)
     * [启动Docker](di-ba-zhang-ff1a-duo-yong-hu-jupyter-bi-ji-ben/docker/qi-dong-docker.md)
     * [为docker构建jupyter镜像](di-ba-zhang-ff1a-duo-yong-hu-jupyter-bi-ji-ben/docker/wei-docker-gou-jian-jupyter-jing-xiang.md)
     * [Docker概要](di-ba-zhang-ff1a-duo-yong-hu-jupyter-bi-ji-ben/docker/dockergai-yao.md)
