@@ -1,4 +1,4 @@
-# Learning Jupyter
+# Summary
 
 * [开篇](README.md)
 * [前言](chapter1.md)
@@ -129,27 +129,27 @@
 * [第九章：Jupyter Scala](di-jiuzhang-ff1a-jupyter-scala.md)
   * 安装Scala内核
   * 在Jupyter的Scala数据访问
-  * Scala array操作
-  * 在Jupyter Scala随机数字
-  * Scala关闭
-  * Scala更高阶功能
-  * Scala模式匹配
-  * Scala案例类
-  * Scala不变性
-  * Scala集合
-  * 命名参数
-  * Scala特质
-  * 概要
+  * [Scala array操作](di-jiuzhang-ff1a-jupyter-scala/scala-arraycao-zuo.md)
+  * [在Jupyter Scala随机数字](di-jiuzhang-ff1a-jupyter-scala/zai-jupyter-scala-sui-ji-shu-zi.md)
+  * [Scala关闭](di-jiuzhang-ff1a-jupyter-scala/scalaguan-bi.md)
+  * [Scala更高阶功能](di-jiuzhang-ff1a-jupyter-scala/scalageng-gao-jie-gong-neng.md)
+  * [Scala模式匹配](di-jiuzhang-ff1a-jupyter-scala/scalamo-shi-pi-pei.md)
+  * [Scala案例类](di-jiuzhang-ff1a-jupyter-scala/scalaan-li-lei.md)
+  * [Scala不变性](di-jiuzhang-ff1a-jupyter-scala/scalabu-bian-xing.md)
+  * [Scala集合](di-jiuzhang-ff1a-jupyter-scala/scalaji-he.md)
+  * [命名参数](di-jiuzhang-ff1a-jupyter-scala/ming-ming-can-shu.md)
+  * [Scala特质](di-jiuzhang-ff1a-jupyter-scala/scalate-zhi.md)
+  * [概要](di-jiuzhang-ff1a-jupyter-scala/gai-yao.md)
 * [第十章：Jupyter和大数据](di-shi-zhang-ff1a-jupyter-he-da-shu-ju.md)
   * [Apache Spark](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/apache-spark.md)
-    * Mac安装
-    * Windows安装
+    * [Mac安装](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/apache-spark/macan-zhuang.md)
+    * [Windows安装](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/apache-spark/windowsan-zhuang.md)
   * [我们的第一个Spark脚本](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/wo-men-de-di-yi-ge-spark-jiao-ben.md)
-  * Spark字数
-  * 分类的字数
-  * 估计Pi
-  * 日志文件检查
-  * Spark prime
+  * [Spark字数](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/sparkzi-shu.md)
+  * [分类的字数](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/fen-lei-de-zi-shu.md)
+  * [估计Pi](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/gu-ji-pi.md)
+  * [日志文件检查](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/ri-zhi-wen-jian-jian-cha.md)
+  * [Spark prime](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/spark-prime.md)
   * [Spark文本文件分析](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/sparkwen-ben-wen-jian-fen-xi.md)
   * [Spark估计历史数据](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/sparkgu-ji-li-shi-shu-ju.md)
   * [概要](di-shi-zhang-ff1a-jupyter-he-da-shu-ju/gai-yao.md)
