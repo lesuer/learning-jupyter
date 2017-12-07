@@ -5,23 +5,15 @@
 可配置选项列表仍在开发中。一些选项如下：
 
   lineSeparator：用于分隔文本行的字符
-
-  主题：笔记本中使用的整体主题indentUnit：多少个空格来缩进编码块
+  theme：笔记本中使用的整体主题
+  indentUnit：多少个空格来缩进编码块
  
 
 
-[34]
 
- 
-Jupyter简介
-
-要更改其中一个选项的配置，请打开浏览器的JavaScript窗口，输入编码修改选项，然后加载笔记本。然后，您所做的修改将应用于笔记本演示文稿。还有更多
-
-文档可在nit。
+要更改其中一个选项的配置，请打开浏览器的JavaScript窗口，输入编码修改选项，然后加载笔记本。然后，您所做的修改将应用于笔记本演示文稿。还有更多文档可用https://codemirror.net/doc/manual.html#option_indentUnit。
 
 例如，要更改笔记本的缩进（indent-unit），可以使用以下JavaScript：
-
-
 
 ```
 var mycell = Jupyter.notebook.get_selected_cell（）; var cell_config = mycell.config;

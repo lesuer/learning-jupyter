@@ -9,7 +9,7 @@ Jupyter作为一个Web应用程序从许多地方提供。它也可以用于各�
 
 在本章中，我们将介绍以下主题：
 
-_  **首先看Jupyter
+  首先看Jupyter
 
   在Windows上安装Jupyter
 
@@ -24,4 +24,3 @@ _  **首先看Jupyter
   Jupyter的安全性
   
   Jupyter的配置选项
-_**

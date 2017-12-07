@@ -1,6 +1,9 @@
 ### 首先看Jupyter
-****
+
 以下是使用Jupyter时的样例打开页面（此截图位于Windows机器上）：
+
+
+
 
 
 ![](/assets/1.jpg)
